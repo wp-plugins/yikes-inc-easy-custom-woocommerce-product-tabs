@@ -3,7 +3,7 @@ Contributors: yikesinc, eherman24, liljimmi
 Donate link: http://yikesinc.com
 Tags: woocommerce, product tabs, repeatable, duplicate, customize, custom, tabs, product, woo, commerce
 Requires at least: 3.8
-Tested up to: 4.0.1
+Tested up to: 4.1
 Requires WooCommerce at least: 2.0
 Tested WooCommerce up to: 2.2.10
 Stable tag: 1.0 

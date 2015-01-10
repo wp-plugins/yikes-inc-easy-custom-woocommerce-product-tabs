@@ -6,7 +6,7 @@ Requires at least: 3.8
 Tested up to: 4.1
 Requires WooCommerce at least: 2.0
 Tested WooCommerce up to: 2.2.10
-Stable tag: 1.0 
+Stable tag: 1.1
 License: GPLv2 or later
 
 This plugin extends WooCommerce to allow site admins to add custom tabs to products. 
@@ -48,6 +48,9 @@ To change the order of the custom tabs use the up and down arrows to the right o
 
 
 == Changelog ==
+
+= 1.1 =
+* Added class to the Woo tabs content title, for targeting via CSS ( `.yikes-custom-woo-tab-title` )
 
 = 1.0.0 =
 * Initial Release

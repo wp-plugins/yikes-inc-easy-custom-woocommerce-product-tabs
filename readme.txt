@@ -21,7 +21,7 @@ Tab content areas use the standard WYSIWYG WordPress editor, and may contain tex
 
 If you experience any problems, please submit a New Issue on our [Github Issue Tracker](https://github.com/yikesinc/yikes-inc-easy-custom-woocommerce-product-tabs/issues) and we'll look in to it as soon as possible.
 
-<i>Originally a fork of <a href="" target="_blank">SkyVerge WooCommerce Custom Product Tabs Lite</a>, and customized for a <a href="http://www.yikesinc.com" target="_blank">YIKES</a> client site.</i>
+<i>Originally a fork of <a href="https://wordpress.org/plugins/woocommerce-custom-product-tabs-lite/" target="_blank">SkyVerge WooCommerce Custom Product Tabs Lite</a>, and customized for a <a href="http://www.yikesinc.com" target="_blank">YIKES</a> client site.</i>
 
 == Installation ==
 
